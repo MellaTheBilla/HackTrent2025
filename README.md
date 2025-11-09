@@ -1,5 +1,4 @@
-# Gym Scheduler
-
+# FitnessMate
 A full-stack gym scheduler app that generates personalized workout schedules based on available equipment and preferred time slots.
 
 Frontend: React + Material-UI (MUI)  
